@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=1
+AutoSheetNumbering=0
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
@@ -65,6 +65,14 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPETCMCV
+
+[Parameter1]
+Name=Rev
+Value=1.0
+
+[Parameter2]
+Name=Project
+Value=Battery Charger 1 - 4S
 
 [Configuration1]
 Name=Sources

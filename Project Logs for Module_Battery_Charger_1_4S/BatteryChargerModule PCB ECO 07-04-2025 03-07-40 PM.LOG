@@ -1,5 +1,0 @@
-Added Component: Designator=U1(MP2797DFP)
-Add component (AddParameter): Name = "Manufacturer 1"; Value = "Monolithic Power Systems Inc."; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
-Added Class: Name=BMS

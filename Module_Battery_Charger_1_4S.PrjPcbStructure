@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=Architecture.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Architecture.SchDoc|FileName=BatteryCharging.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Architecture.SchDoc|FileName=BMS.SchDoc|SheetNumber=2

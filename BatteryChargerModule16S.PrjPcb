@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PNDBBDMM
 
 [Document4]
-DocumentPath=BatteryChargerModule.PcbDoc
+DocumentPath=BatteryChargerModule16S.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,20 +118,16 @@ GenerateClassCluster=0
 DocumentUniqueId=KLCSHKVF
 
 [Parameter1]
-Name=
-Value=
-
-[Parameter2]
 Name=TotalSheets
 Value=3
 
-[Parameter3]
+[Parameter2]
 Name=Rev
 Value=1.0
 
-[Parameter4]
+[Parameter3]
 Name=Project
-Value=Battery Charger 1 - 4S
+Value=BatteryChargerModule16S
 
 [Configuration1]
 Name=Sources
